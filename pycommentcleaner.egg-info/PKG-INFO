@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: pycommentcleaner
-Version: 0.1.0
+Version: 0.1.1
 Summary: A simple and fast Python utility to remove comments from Python scripts.
 Home-page: https://github.com/viekayy/pycommentcleaner.git
 Author: Viadishwar
