@@ -5,7 +5,7 @@ This package provides functionality to remove comments from Python code
 while preserving comments inside strings and docstrings.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Viadishwar"
 __email__ = "viekayy.1234@gmail.com"
 
